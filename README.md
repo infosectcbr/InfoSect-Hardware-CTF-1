@@ -1,2 +1,2 @@
-# InfoSect-Hardware-CTF-1
-InfoSect Hardware CTF 1
+# if the device is /dev/ttyUSB0
+$ ./flash_hwctf1.sh /dev/ttyUSB0
