@@ -1,6 +1,6 @@
 This is the Hardware CTF 1.
 
-Register your name/handle with InfoSect CTF to track your progress and compare yourself to others [Link](http://ctf.infosectcbr.com.au:8000 http://ctf.infosectcbr.com.au:8000).
+Register your name/handle with InfoSect CTF to track your progress and compare yourself to others [http://ctf.infosectcbr.com.au:8000](http://ctf.infosectcbr.com.au:8000).
 
 Solve each level to get the flag. Once you have the flag, enter it into the CTF to get your points.
 
@@ -33,7 +33,7 @@ If your badge is on /dev/ttyUSB1 or another port, use that instead.
 
 ## The BUSSide
 
-You will need an up to date version of the BUSSide firmware (from 16-12-2019) for the I2C challenges. Please check out (https://github.com/infosectcbr/BUSSide https://github.com/infosectcbr/BUSSide).
+You will need an up to date version of the BUSSide firmware (from 16-12-2019) for the I2C challenges. Please check out [https://github.com/infosectcbr/BUSSide](https://github.com/infosectcbr/BUSSide).
 
 ## Level -
 
@@ -45,7 +45,7 @@ If you can assemble and flash the badge, this will be enough to get the flag!
 
 ## Level 1
 
-You will need to interface via UART. The pinout and line settings are given. Use a serial-uart bridge. We recommend and have tested with (https://www.jaycar.com.au/arduino-compatible-usb-to-serial-adaptor-module/p/XC4464).
+You will need to interface via UART. The pinout and line settings are given. Use a serial-uart bridge. We recommend and have tested with [https://www.jaycar.com.au/arduino-compatible-usb-to-serial-adaptor-module/p/XC4464](https://www.jaycar.com.au/arduino-compatible-usb-to-serial-adaptor-module/p/XC4464).
 
 To use the usb to serial adapter, connect TXD/TX, RXD/RX, and GND/Ground.
 
@@ -86,7 +86,7 @@ Same as level 3, but it's harder. The Hardware CTF isn't transmitting data so it
 
 ## Level 5
 
-Use the BUSSide to dump the I2C EEPPROM. There is a video on how to do this with the BUSSide on a standard EEPROM via YouTube at (https://www.youtube.com/watch?v=MWO07mJBgMM).
+Use the BUSSide to dump the I2C EEPPROM. There is a video on how to do this with the BUSSide on a standard EEPROM via YouTube at [https://www.youtube.com/watch?v=MWO07mJBgMM](https://www.youtube.com/watch?v=MWO07mJBgMM).
 
 ## Level 6
 
