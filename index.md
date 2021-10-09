@@ -35,7 +35,7 @@ If your badge is on /dev/ttyUSB1 or another port, use that instead.
 
 You will need an up to date version of the BUSSide firmware (from 16-12-2019) for the I2C challenges. Please check out [Link](https://github.com/infosectcbr/BUSSide https://github.com/infosectcbr/BUSSide).
 
-== Level - ==
+## Level -
 
 Look at the firmware blob. Can you find an embedded flag?
 
