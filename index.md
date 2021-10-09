@@ -1,3 +1,5 @@
+# Hardware CTF 1
+
 This is the Hardware CTF 1.
 
 Register your name/handle with InfoSect CTF to track your progress and compare yourself to others [http://ctf.infosectcbr.com.au:8000](http://ctf.infosectcbr.com.au:8000).
