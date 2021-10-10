@@ -6,6 +6,9 @@ Register your name/handle with InfoSect CTF to track your progress and compare y
 
 Solve each level to get the flag. Once you have the flag, enter it into the CTF to get your points.
 
+![](https://busside.com.au/assets/img/gg/Hwctf1-1.jpg)
+![](https://busside.com.au/assets/img/gg/Hwctf1-2.jpg)
+
 ## How to assemble
 
 - 1.8"Adafruit TFT display and header pins
